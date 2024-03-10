@@ -6,7 +6,7 @@
    <Contact></Contact>
    <Url type="application/atom+xml"
         indexOffset="0" pageOffset="0"
-        template="https://flub.flibusta.is/opds/search?searchTerm={searchTerms}&amp;searchType=books&amp;pageNumber={startPage?}"/>
+        template="https://flub.flibusta.is/opds/search?searchType=authors&amp;searchTerm={searchTerms}"/>
    <SearchForm>http://flibusta.is/booksearch</SearchForm>
    <LongName>Флибуста</LongName>
    <Image width="16" height="16">http://flibusta.is/sites/default/files/favicon.ico</Image>
